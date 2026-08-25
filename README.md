@@ -4,12 +4,15 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%E2%9A%A1+Fullstack+Dev+%7C+Cheat+Engineer+%7C+Bot+Architect;%F0%9F%9B%A1%EF%B8%8F+Memory+Hacker+%7C+Reverse+Engineer+%7C+System+Phantom" alt="Typing SVG" /></a>
+<a href="https://github.com/official-shadowx">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%E2%9A%A1+Fullstack+Dev+%7C+Cheat+Engineer+%7C+Bot+Architect;%F0%9F%9B%A1%EF%B8%8F+Memory+Hacker+%7C+Reverse+Engineer+%7C+Code+Phantom" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SHADOW%20X-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/official-shadowx)
-![Profile Views](https://komarev.com/ghpvc/?username=official-shadowx&style=for-the-badge&color=00fff7&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/official-shadowx?style=for-the-badge&color=00fff7&labelColor=0d0d0d&logo=github&label=FOLLOWERS)](https://github.com/official-shadowx?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/official-shadowx?style=for-the-badge&color=8888ff&labelColor=0d0d0d&logo=github&label=STARS)](https://github.com/official-shadowx)
+![Profile Views](https://komarev.com/ghpvc/?username=official-shadowx&style=for-the-badge&color=00fff7&label=VISITORS&labelColor=0d0d0d)
 
 </div>
 
@@ -56,7 +59,8 @@ class ShadowX:
 
 <div align="center">
 
-### 💻 Languages
+**💻 Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +68,8 @@ class ShadowX:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🌐 Web Stack
+**🌐 Web Stack**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -72,7 +77,8 @@ class ShadowX:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Tools & Platforms
+**⚙️ Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -83,19 +89,11 @@ class ShadowX:
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=official-shadowx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&icon_color=8888ff&text_color=ffffff&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-shadowx&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=official-shadowx&theme=dark&background=0d0d0d&border=00fff7&stroke=00fff7&ring=8888ff&fire=ff4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=8888ff&dates=888888&hide_border=false" alt="GitHub Streak"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=official-shadowx&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6)](https://github.com/official-shadowx)
 
 </div>
 
@@ -121,7 +119,11 @@ class ShadowX:
 
 <div align="center">
 
-[![SHADOW-X-AUTH](https://github-readme-stats.vercel.app/api/pin/?username=official-shadowx&repo=SHADOW-X-AUTH-ALL-CS-FILE-&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&icon_color=8888ff&cache_seconds=86400)](https://github.com/official-shadowx/SHADOW-X-AUTH-ALL-CS-FILE-)
+| Repo | Language | Stars |
+|------|----------|-------|
+| [🛡️ SHADOW-X-AUTH](https://github.com/official-shadowx/SHADOW-X-AUTH-ALL-CS-FILE-) | C++ / C# / Python / Java | ![Stars](https://img.shields.io/github/stars/official-shadowx/SHADOW-X-AUTH-ALL-CS-FILE-?style=flat-square&color=00fff7&labelColor=0d0d0d) |
+| [🤖 SHADOW-X-VC-BOT](https://github.com/official-shadowx/SHADOW-X-VC-BOT) | Bot | ![Stars](https://img.shields.io/github/stars/official-shadowx/SHADOW-X-VC-BOT?style=flat-square&color=00fff7&labelColor=0d0d0d) |
+| [🔑 ShadowxAuth](https://github.com/official-shadowx/ShadowxAuth) | Auth System | ![Stars](https://img.shields.io/github/stars/official-shadowx/ShadowxAuth?style=flat-square&color=00fff7&labelColor=0d0d0d) |
 
 </div>
 
