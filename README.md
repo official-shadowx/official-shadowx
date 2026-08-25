@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SHADOW%20X-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/imranchowdhury3448-bit)
-![Profile Views](https://komarev.com/ghpvc/?username=imranchowdhury3448-bit&style=for-the-badge&color=00fff7&label=VISITORS)
+[![GitHub](https://img.shields.io/badge/GitHub-SHADOW%20X-00fff7?style=for-the-badge&logo=github&logoColor=black)](https://github.com/official-shadowx)
+![Profile Views](https://komarev.com/ghpvc/?username=official-shadowx&style=for-the-badge&color=00fff7&label=VISITORS)
 
 </div>
 
@@ -87,15 +87,15 @@ class ShadowX:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imranchowdhury3448-bit&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&icon_color=8888ff&text_color=ffffff&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=official-shadowx&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&icon_color=8888ff&text_color=ffffff&hide_border=false&cache_seconds=86400" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranchowdhury3448-bit&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-shadowx&layout=compact&langs_count=8&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&cache_seconds=86400" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=imranchowdhury3448-bit&theme=dark&background=0d0d0d&border=00fff7&stroke=00fff7&ring=8888ff&fire=ff4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=8888ff&dates=888888&hide_border=false" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=official-shadowx&theme=dark&background=0d0d0d&border=00fff7&stroke=00fff7&ring=8888ff&fire=ff4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00fff7&sideLabels=8888ff&dates=888888&hide_border=false" alt="GitHub Streak"/>
 
 </div>
 
@@ -121,7 +121,7 @@ class ShadowX:
 
 <div align="center">
 
-[![SHADOW-X-AUTH](https://github-readme-stats.vercel.app/api/pin/?username=imranchowdhury3448-bit&repo=SHADOW-X-AUTH-ALL-CS-FILE-&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&icon_color=8888ff&cache_seconds=86400)](https://github.com/imranchowdhury3448-bit/SHADOW-X-AUTH-ALL-CS-FILE-)
+[![SHADOW-X-AUTH](https://github-readme-stats.vercel.app/api/pin/?username=official-shadowx&repo=SHADOW-X-AUTH-ALL-CS-FILE-&theme=midnight-purple&bg_color=0d0d0d&border_color=00fff7&title_color=00fff7&text_color=ffffff&icon_color=8888ff&cache_seconds=86400)](https://github.com/official-shadowx/SHADOW-X-AUTH-ALL-CS-FILE-)
 
 </div>
 
@@ -132,9 +132,9 @@ class ShadowX:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranchowdhury3448-bit/imranchowdhury3448-bit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranchowdhury3448-bit/imranchowdhury3448-bit/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/imranchowdhury3448-bit/imranchowdhury3448-bit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/official-shadowx/official-shadowx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/official-shadowx/official-shadowx/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/official-shadowx/official-shadowx/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
