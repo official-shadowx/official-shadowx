@@ -89,11 +89,14 @@ class ShadowX:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Coding Activity
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=official-shadowx&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=6)](https://github.com/official-shadowx)
+![Commits](https://img.shields.io/badge/Total%20Repos-19+-00fff7?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d0d)
+![Languages](https://img.shields.io/badge/Languages-6+-8888ff?style=for-the-badge&logo=code&logoColor=white&labelColor=0d0d0d)
+![Focus](https://img.shields.io/badge/Focus-Low%20Level%20%26%20Full%20Stack-ff4444?style=for-the-badge&logo=target&logoColor=white&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-Always%20Building-00ff88?style=for-the-badge&logo=lightning&logoColor=black&labelColor=0d0d0d)
 
 </div>
 
@@ -150,3 +153,4 @@ class ShadowX:
 **⚡ SHADOW X — Ghost in the machine. Code in the dark. Strike from nowhere. ⚡**
 
 </div>
+
